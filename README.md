@@ -1,4 +1,4 @@
-# Website Katalog Produk Django
+# Tugas 3 Website Katalog Produk Django
 Sifa Jema (2308107010080)
 
 ## Penjelasan singkat terkait Program Katalog
